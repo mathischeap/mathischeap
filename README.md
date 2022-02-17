@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Yi Zhang @mathischeap.
 - 👀 I’m interested in numerical analysis, finite element method, structure-preserving methods.
-- 🌱 I’m currently learning everything.
-- 💞️ I’m looking to collaborate on everything.
 - 📫 find out how to reach me at www.mathischeap.com.
 
 <!---
